@@ -19,7 +19,7 @@ Para cualquier comando que sea de git debe comenzar con "git".
 ### Seleccionar ficheros al repositorio
     - Para agregar ficheros a un repositorio de Git utilizaremos el comando "git add".
 
-### Precargar los ficheros seleccionados.
+### Crear un punto de ruptura/info de los ficheros seleccionados.
     - Para agregar los ficheros que hemos seleccionados utilizamos el comando: "git commit -m "<Una descripción si se desea>".
 
 ### Subir los ficheros precargados
