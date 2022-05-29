@@ -24,7 +24,7 @@ Para cualquier comando que sea de git debe comenzar con "git".
 
 ### Subir los ficheros precargados
     - Para subir los ficheros finalmente utilizaremos el siguiente comando:
-        "git push origin <linea de trabajo (Master, etc..)>".
+        "git push origin <linea de trabajo (Master, develop, etc...)>".
 
 ### Ramas
     - Para crear una nueva rama utilizamos "git branch <nombre de la nueva rama>".
