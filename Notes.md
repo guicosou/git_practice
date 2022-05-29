@@ -30,3 +30,7 @@ Para cualquier comando que sea de git debe comenzar con "git".
     - Para crear una nueva rama utilizamos "git branch <nombre de la nueva rama>".
     - Para cambiar de rama utilizramos "git checkout <nombre de la rama>".
     - Para comprobar que en rama estamos utilizamos "git status".
+    - Para actualizar en una rama lo de otra debemos hacer lo siguiente:
+        1. Nos ubicamos en la rama donde queremos que se plasmen los cambios.
+        2. Ejecutamos el comando "git merge <rama de donde vienen los cambios>".
+        3. Debemos enviar los cambios a Git con un "push".
